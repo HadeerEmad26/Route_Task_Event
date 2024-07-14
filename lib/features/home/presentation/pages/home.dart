@@ -5,7 +5,6 @@ import 'package:route_event_task/core/utils/app_assets.dart';
 import 'package:route_event_task/core/utils/app_colors.dart';
 import 'package:route_event_task/core/utils/components.dart';
 
-import '../../data/data_sources/remote_dto.dart';
 import '../manager/cubit.dart';
 import '../manager/states.dart';
 

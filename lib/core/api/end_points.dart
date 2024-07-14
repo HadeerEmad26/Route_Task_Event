@@ -1,5 +1,5 @@
 class EndPoints {
-  static const String getAllBrands = "/pro";
-  static const String allProducts = "/pro";
-  static const String getAllCategories = "/pro";
+  static const String getAllBrands = "/products";
+  static const String allProducts = "/products";
+  static const String getAllCategories = "/products";
 }

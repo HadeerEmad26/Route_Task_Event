@@ -1,6 +1,5 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:route_event_task/features/home/presentation/manager/states.dart';
-
 import '../../data/data_sources/home_data_sources.dart';
 import '../../data/repositories/home_data_repo.dart';
 import '../../domain/entities/entities/CategoryEntity.dart';

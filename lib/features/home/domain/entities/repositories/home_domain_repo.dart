@@ -7,5 +7,8 @@ import '../entities/CategoryEntity.dart';
 abstract class HomeDomainRepo {
   Future<Either<Failures, CategoryOrBrandEntity>> getCategories();
 
+  Future<Either<Failures, CategoryOrBrandEntity>> getBrands();
+
   Future<Either<Failures, ProductEntity>> getProducts();
+
 }
